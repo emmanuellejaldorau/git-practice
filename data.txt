@@ -1,0 +1,3 @@
+Name: Emmanuelle
+Age: 28
+Favourite colour: Yellow
